@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": 1764355829.42418,
+    "type": "run_metadata",
+    "text": "Started new session with input: give me a famous line from Harvey specter in suits at 2025-11-28T18:50:29.424183",
+    "tool_name": null,
+    "tool_args": null,
+    "tool_result": null,
+    "final_answer": null,
+    "tags": [
+      "run_start"
+    ],
+    "success": null,
+    "metadata": {
+      "start_time": "2025-11-29T00:20:29.424399",
+      "step": 0,
+      "has_historical_context": true
+    }
+  }
+]

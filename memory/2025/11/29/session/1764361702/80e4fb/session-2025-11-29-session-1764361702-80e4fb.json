@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": 1764361702.676776,
+    "type": "run_metadata",
+    "text": "Started new session with input: what can you tell me about Antigravity? at 2025-11-28T20:28:22.676782",
+    "tool_name": null,
+    "tool_args": null,
+    "tool_result": null,
+    "final_answer": null,
+    "tags": [
+      "run_start"
+    ],
+    "success": null,
+    "user_query": "what can you tell me about Antigravity?",
+    "metadata": {
+      "start_time": "2025-11-29T01:58:22.677064",
+      "step": 0,
+      "has_historical_context": true
+    }
+  }
+]

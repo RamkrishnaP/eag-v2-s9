@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": 1764365313.861645,
+    "type": "run_metadata",
+    "text": "Started new session with input: what is the capital of India? at 2025-11-28T21:28:33.861653",
+    "tool_name": null,
+    "tool_args": null,
+    "tool_result": null,
+    "final_answer": null,
+    "tags": [
+      "run_start"
+    ],
+    "success": null,
+    "user_query": "what is the capital of India?",
+    "metadata": {
+      "start_time": "2025-11-29T02:58:33.861869",
+      "step": 0,
+      "has_historical_context": true
+    }
+  }
+]

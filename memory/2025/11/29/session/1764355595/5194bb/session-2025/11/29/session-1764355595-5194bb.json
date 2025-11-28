@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": 1764355595.847389,
+    "type": "run_metadata",
+    "text": "Started new session with input: give me a famous line from tyrion lannister in Game of thrones at 2025-11-28T18:46:35.847392",
+    "tool_name": null,
+    "tool_args": null,
+    "tool_result": null,
+    "final_answer": null,
+    "tags": [
+      "run_start"
+    ],
+    "success": null,
+    "metadata": {
+      "start_time": "2025-11-29T00:16:35.847655",
+      "step": 0,
+      "has_historical_context": true
+    }
+  }
+]

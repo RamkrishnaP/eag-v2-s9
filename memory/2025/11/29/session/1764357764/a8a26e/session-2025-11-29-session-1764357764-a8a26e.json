@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": 1764357764.100029,
+    "type": "run_metadata",
+    "text": "Started new session with input: what is the capital of France? at 2025-11-28T19:22:44.100032",
+    "tool_name": null,
+    "tool_args": null,
+    "tool_result": null,
+    "final_answer": null,
+    "tags": [
+      "run_start"
+    ],
+    "success": null,
+    "metadata": {
+      "start_time": "2025-11-29T00:52:44.100211",
+      "step": 0,
+      "has_historical_context": true
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": 1764356085.899777,
+    "type": "run_metadata",
+    "text": "Started new session with input: what is the maximum returns Berkshire hathway made from coca cola stock? at 2025-11-28T18:54:45.899779",
+    "tool_name": null,
+    "tool_args": null,
+    "tool_result": null,
+    "final_answer": null,
+    "tags": [
+      "run_start"
+    ],
+    "success": null,
+    "metadata": {
+      "start_time": "2025-11-29T00:24:45.900058",
+      "step": 0,
+      "has_historical_context": true
+    }
+  }
+]

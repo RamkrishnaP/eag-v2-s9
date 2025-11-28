@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": 1764363788.491731,
+    "type": "run_metadata",
+    "text": "Started new session with input: what is the value of sin90? at 2025-11-28T21:03:08.491732",
+    "tool_name": null,
+    "tool_args": null,
+    "tool_result": null,
+    "final_answer": null,
+    "tags": [
+      "run_start"
+    ],
+    "success": null,
+    "user_query": "what is the value of sin90?",
+    "metadata": {
+      "start_time": "2025-11-29T02:33:08.491976",
+      "step": 0,
+      "has_historical_context": true
+    }
+  }
+]
